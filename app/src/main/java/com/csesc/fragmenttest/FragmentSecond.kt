@@ -34,7 +34,7 @@ class FragmentSecond:Fragment() {
 //	}
 
 	private fun initView() {
-		//修复逻辑
+		//修复逻辑 使用正确的 FragmentManager
 		childFragmentManager.findFragmentByTag(TAG_FRAGMENT_THREE)?.let {
 			fragmentThree = it as FragmentThree
 		}
