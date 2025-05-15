@@ -1,7 +1,8 @@
-package com.csesc.fragmenttest
+package com.csesc.fragmenttest.example1
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.csesc.fragmenttest.R
 
 class MainActivity:AppCompatActivity() {
 

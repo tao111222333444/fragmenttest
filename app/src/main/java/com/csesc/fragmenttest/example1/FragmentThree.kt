@@ -1,10 +1,11 @@
-package com.csesc.fragmenttest
+package com.csesc.fragmenttest.example1
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.csesc.fragmenttest.R
 
 class FragmentThree : Fragment() {
 

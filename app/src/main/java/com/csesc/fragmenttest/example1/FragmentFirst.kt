@@ -1,4 +1,4 @@
-package com.csesc.fragmenttest
+package com.csesc.fragmenttest.example1
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import androidx.viewpager2.widget.ViewPager2
+import com.csesc.fragmenttest.R
 
 class FragmentFirst:Fragment() {
 
